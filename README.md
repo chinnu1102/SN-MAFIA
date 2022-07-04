@@ -32,24 +32,23 @@ sn-mafia Bot Multi Device is a automated whatsapp bot created by <a href="https:
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/919505579643"><img src="https://img.shields.io/badge/Contact sn-mafia-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FPtIVS909J8BnFX88MgNKh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/channel/UCGwyl1Gr6Pje0xO5BbS9-Vw"><img src="https://img.shields.io/badge/Subscribe sn-mafia-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`phonepay`](9505579643-nikkimadhu)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
+Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 </p>
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`1st GC`](https://chat.whatsapp.com/FPtIVS909J8BnFX88MgNKh)
+- [`2nd GC`](https://chat.whatsapp.com/EpjQS7sRlBhCZLf7pJq5Y7)
 
 # Setup For Deployment 👇
 
