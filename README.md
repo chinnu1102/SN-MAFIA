@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶSN-MAFIAꫂ<br></h1>
 <p align="center">
-<img src="https://ibb.co/jvg4JjZ" alt="animated" width="540" height="280" />
+<img src="https://ibb.co/jvg4JjZ" alt="Image" width="540" height="280" />
 </p>
 
 <p align="center">
