@@ -86,8 +86,8 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD3.git
-cd CheemsBot-MD3
+git clone https://github.com/chinnu1102/SN-MAFIA.git
+cd SN-MAFIA
 
 npm start
 ```
@@ -103,8 +103,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD3
-cd CheemsBot-MD
+git clone https://github.com/chinnu1102/SN-MAFIA
+cd SN-MAFIA
 npm start
 ```
 ## `For VPS`
@@ -115,8 +115,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD3
-cd CheemsBot-MD3
+git clone https://github.com/chinnu1102/SN-MAFIA
+cd SN-MAFIA
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
