@@ -55,15 +55,15 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 - FORK THE REPOSITORY [Here](https://github.com/chinnu1102/SN-MAFIA/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![sn-mafia](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L44)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L59)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L58)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L45)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD3/blob/master/config.js#L51)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L44)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L59)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L58)
+- CHANGE OWNER NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L45)
+- CHANGE BOT NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L51)
 
 ## ` BUILDPACKS`
 
