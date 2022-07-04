@@ -21,7 +21,7 @@ sn-mafia Bot Multi Device is a automated whatsapp bot created by <a href="https:
 <a href="https://github.com/chinnu1102/SN-MAFIA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/chinnu1102/SN-MAFIA?color=blue&style=flat-square"></a>
 <a href="https://github.com/chinnu1102/SN-MAFIA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/chinnu1102/SN-MAFIA?color=red&style=flat-square"></a>
 <a href="https://github.com/chinnu1102/SN-MAFIA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/chinnu1102/SN-MAFIA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/chinnu1102/SN-MAFIA/"><img title="Size" src="https://img.shields.io/github/repo-size/chinnu1102/SN-MAFIA?style=flat-square&color=green"></a>
+<a href="https://github.com/chinnu1102/SN-MAFIA/size"><img title="Size" src="https://img.shields.io/github/repo-size/chinnu1102/SN-MAFIA?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchinnu1102%2FSN-MAFIA&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/chinnu1102/SN-MAFIA/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
