@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶSN-MAFIAꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://ibb.co/jvg4JjZ" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
