@@ -39,7 +39,7 @@ sn-mafia Bot Multi Device is a automated whatsapp bot created by <a href="https:
 
 ## ```Donate Me```
 
-- [`phonepay`](9505579643-nikkimadhu)
+- [`phonepay`]-9505579643-nikkimadhu
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
