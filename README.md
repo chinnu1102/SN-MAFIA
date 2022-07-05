@@ -107,7 +107,8 @@ pkg install imagemagick -y
 git clone https://github.com/chinnu1102/SN-MAFIA
 cd SN-MAFIA
 npm start
-  </details>
+ 
+     </details>
 ```
  ##
     <!-- Installation via VPS -->   
