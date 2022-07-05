@@ -109,7 +109,6 @@ npm start
 ```
     
 </details>
-```
  
 <!-- Installation via VPS -->
 <b><details><summary>Installation Via VPS</summary></b>
