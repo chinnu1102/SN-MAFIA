@@ -1,5 +1,4 @@
 
-<a href="https://github.com/chinnnu1102"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>
 <h1 align="center">ꪶSN-MAFIAꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/wNM6c2r/cheemspic.jpg" alt="Image" width="540" height="280" />
