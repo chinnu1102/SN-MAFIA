@@ -110,7 +110,7 @@ npm start
      </details>
 ```
   <!-- Installation via VPS -->   
-  <b><details><summary>Installation on Termux</summary></b>
+  <b><details><summary>Installation on VPS</summary></b>
 ## `For VPS`
 ```bash
 apt install nodejs 
