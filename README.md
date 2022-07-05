@@ -120,5 +120,6 @@ npm start
 <!-- For 24/7 Activation (Termux) -->  
 <b><details><summary>For 24/7 Activation</summary></b>
 ```bash
-    * npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs ```
+    * npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
+    ```
 </details>
