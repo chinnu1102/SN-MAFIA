@@ -84,8 +84,8 @@ heroku/nodejs
 * Any text editor
 
 
-<!-- easy method -->
-<b><details><summary>easy method</summary></b>
+<!-- Clone Repo & Installation dependencies -->
+<b><details><summary>Clone Repo & Installation dependencies</summary></b>
 ```bash
 > git clone https://github.com/chinnu1102/SN-MAFIA.git
 > cd SN-MAFIA
