@@ -117,9 +117,11 @@ git clone https://github.com/chinnu1102/SN-MAFIA
 cd SN-MAFIA
 npm start
 ```
-<!-- For 24/7 Activation (Termux) -->  
-<b><details><summary>For 24/7 Activation</summary></b>
+
+<!-- 24hrs-->
+<b><details><summary>For 24 Hours Activation</summary></b>
 ```bash
-    * npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
-    ```
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 </details>
+----
+    
