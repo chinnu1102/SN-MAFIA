@@ -105,8 +105,9 @@ npm start
 > pkg install imagemagick -y
 > git clone https://github.com/chinnu1102/SN-MAFIA
 > cd SN-MAFIA
->npm start
+> npm start
 ```
+    
 </details>
 
     
@@ -135,6 +136,5 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 
 </details>
-
 ----
 
