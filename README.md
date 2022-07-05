@@ -111,19 +111,21 @@ npm start
 
     
 ```
-    
-## `For VPS`
+ 
+<!-- Installation via VPS -->
+<b><details><summary>Installation Via VPS</summary></b>
 ```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/chinnu1102/SN-MAFIA
-cd SN-MAFIA
-npm start
+> apt install nodejs 
+> apt install git 
+> apt apt install ffmpeg 
+> apt apt install libwebp 
+> apt apt install imagrmagick
+> apt install bash
+> git clone https://github.com/chinnu1102/SN-MAFIA
+> cd SN-MAFIA
+> npm start
 ```
+</details>
 
 
 <!-- 24hrs-->
