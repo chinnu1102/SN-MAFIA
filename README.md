@@ -90,6 +90,8 @@ cd SN-MAFIA
 
 npm start
 ```
+ <!-- Installation via Termux -->
+ <b><details><summary>Installation on Termux</summary></b>
 ## `For Termux/Ssh/Ubuntu`
 ```bash
 apt update
@@ -105,6 +107,7 @@ pkg install imagemagick -y
 git clone https://github.com/chinnu1102/SN-MAFIA
 cd SN-MAFIA
 npm start
+</details>
 ```
 ## `For VPS`
 ```bash
