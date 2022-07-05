@@ -126,7 +126,10 @@ cd SN-MAFIA
 npm start
  </details>  
 ```
+  <!-- For 24/7 Activation (Termux)-->  
+   <b><details><summary>Installation on VPS</summary></b>
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+ </details> 
