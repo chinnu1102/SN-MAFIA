@@ -107,8 +107,10 @@ pkg install imagemagick -y
 git clone https://github.com/chinnu1102/SN-MAFIA
 cd SN-MAFIA
 npm start
-</details>
+     </details>
 ```
+  <!-- Installation via VPS -->   
+  <b><details><summary>Installation on Termux</summary></b>
 ## `For VPS`
 ```bash
 apt install nodejs 
@@ -120,6 +122,7 @@ apt install bash
 git clone https://github.com/chinnu1102/SN-MAFIA
 cd SN-MAFIA
 npm start
+ </details>  
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
