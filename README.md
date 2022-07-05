@@ -89,7 +89,6 @@ heroku/nodejs
 ```bash
 > git clone https://github.com/chinnu1102/SN-MAFIA.git
 > cd SN-MAFIA
-
 > npm start
 ```
 </details>
