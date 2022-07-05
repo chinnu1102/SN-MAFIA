@@ -89,22 +89,29 @@ cd SN-MAFIA
 
 npm start
 ```
-## `For Termux/Ssh/Ubuntu`
+    
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
 ```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/chinnu1102/SN-MAFIA
-cd SN-MAFIA
-npm start
+> apt update
+> apt upgrade
+> pkg update && pkg upgrade
+> pkg install bash
+> pkg install libwebp
+> pkg install git -y
+> pkg install nodejs -y 
+> pkg install ffmpeg -y 
+> pkg install wget
+> pkg install imagemagick -y
+> git clone https://github.com/chinnu1102/SN-MAFIA
+> cd SN-MAFIA
+>npm start
 ```
+</details>
+
+    
+```
+    
 ## `For VPS`
 ```bash
 apt install nodejs 
