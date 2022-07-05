@@ -84,8 +84,8 @@ heroku/nodejs
 * Any text editor
 
 
-<!-- Installation via VPS -->
-<b><details><summary>Installation Via VPS</summary></b>
+<!-- easy method -->
+<b><details><summary>easy method</summary></b>
 ```bash
 > git clone https://github.com/chinnu1102/SN-MAFIA.git
 > cd SN-MAFIA
@@ -93,7 +93,6 @@ heroku/nodejs
 > npm start
 ```
 </details>
-```
     
 <!-- Installation via Termux -->
 <b><details><summary>Installation on Termux</summary></b>
