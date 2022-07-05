@@ -86,11 +86,13 @@ heroku/nodejs
     </details>
     
 ## `Clone Repo & Installation dependencies`
+    <!-- Clone Repo & Installation dependencies -->  
+<b><details><summary>Clone_Repo</summary></b>
 ```bash
 git clone https://github.com/chinnu1102/SN-MAFIA.git
 cd SN-MAFIA
-
 npm start
+  </details>
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
