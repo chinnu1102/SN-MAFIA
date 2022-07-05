@@ -75,6 +75,7 @@ heroku/nodejs
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chinnu1102/SN-MAFIA/)
 
 # Install Manually 👇
+    
   <!-- Requirements -->  
   <b><details><summary>Requirements</summary></b>
 * [Node.js](https://nodejs.org/en/)
@@ -83,6 +84,7 @@ heroku/nodejs
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
     </details>
+    
 ## `Clone Repo & Installation dependencies`
 ```bash
 git clone https://github.com/chinnu1102/SN-MAFIA.git
