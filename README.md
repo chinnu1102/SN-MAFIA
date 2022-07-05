@@ -62,7 +62,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 - CHANGE OWNER NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L45)
 - CHANGE BOT NAME [Here](https://github.com/chinnu1102/SN-MAFIA/blob/master/config.js#L51)
 
-   ## `Scan QR Code For Session`
+## `Scan QR Code For Session`
 [![sn-mafia](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@chinnu1102/SN-MAFIA-MD-BOT-QR-Code-generate?v=1)
  
 ## ` BUILDPACKS`
