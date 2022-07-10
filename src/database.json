@@ -1,0 +1,33 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {},
+  "READ": false,
+  "data": {
+    "users": {},
+    "chats": {},
+    "database": {},
+    "game": {},
+    "settings": {},
+    "others": {},
+    "sticker": {},
+  "chain": {},  
+    "others": {},
+    "sticker": {}
+  }
+}
