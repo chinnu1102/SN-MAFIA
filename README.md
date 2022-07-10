@@ -117,12 +117,12 @@ heroku/nodejs
 <!-- Installation via VPS -->
 <b><details><summary>Installation Via VPS</summary></b>
 ```bash
-> apt install nodejs 
-> apt install git 
-> apt apt install ffmpeg 
-> apt apt install libwebp 
-> apt apt install imagrmagick
-> apt install bash
+> sudo apt install nodejs 
+> sudo apt install git 
+> sudo apt install ffmpeg 
+> sudo apt install libwebp 
+> sudo apt install imagrmagick
+> sudo apt install bash
 > git clone https://github.com/chinnu1102/SN-MAFIA
 > cd SN-MAFIA
 > npm start
