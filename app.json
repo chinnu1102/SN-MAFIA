@@ -1,0 +1,24 @@
+{
+  "name": "snmafia-MD",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/chinnu1102/sn-mafia-business-bot",
+  "logo": "https://camo.githubusercontent.com/0da15dec67bb0d09ccc1ebe06d4a726f69cad4786924c840c6ee276be89dc79a/68747470733a2f2f692e6962622e636f2f774e4d366332722f636865656d737069632e6a7067",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
